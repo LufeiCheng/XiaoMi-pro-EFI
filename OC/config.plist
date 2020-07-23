@@ -1092,6 +1092,12 @@
 			<false/>
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
+			<key>SystemSerialNumber</key>
+			<string>C02TQHZHHV29</string>
+			<key>SystemUUID</key>
+			<string>C8EB3A4D-A6FB-439F-B5D2-EDDFB7776A52</string>
+			<key>MLB</key>
+			<string>C02720500QXHWVPA8</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
